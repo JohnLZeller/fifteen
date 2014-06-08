@@ -1,0 +1,15 @@
+{
+  "uuid": "60cf89c2-5bbe-4f45-bc37-08ce51216fab",
+  "shortName": "Fifteen",
+  "longName": "Fifteen",
+  "companyName": "Zeller Tech",
+  "versionCode": 2,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {},
+  "resources": {
+    "media": []
+  }
+}
